@@ -1,0 +1,45 @@
+# Node
+node_modules/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Expo/React Native
+.expo/
+.expo-shared/
+android/
+ios/
+*.iml
+*.keystore
+*.jks
+
+# Logs
+logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Builds
+build/
+dist/
+.coverage/
+coverage/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Python (optional)
+__pycache__/
+*.pyc
+.venv/
+
+# Misc
+.tmp/
+.cache/
